@@ -1,0 +1,50 @@
+div{
+	background-color:green;
+	margin-left: 450px;
+	margin-right: 450px;
+}
+marquee{
+	background-color:yellow;
+	font-size:30px;
+}
+body
+{
+	margin-left:100px;
+	margin-right: 100px;
+	background-color: brown;
+	font-size: 30px;
+	text-align: center;
+
+}
+h2{
+	margin-bottom:100px;
+	background-color: lightblue;
+	text-align: center;
+}
+p
+{
+	background-color: lightblue;
+}
+a{
+	border: solid;
+	color: white;
+	background-color: green;
+	padding: 5px 5px;
+	text-align:center;
+}
+form{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+input{
+	height: 30px;
+	font-size:25px;
+}
+button
+{
+	height: 30px;
+	width : 100px;
+	text-align: center;
+	font-size:25px;
+}
